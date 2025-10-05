@@ -1,0 +1,7 @@
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\bin\Release\Test_Task_Monopoly.exe.config
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\bin\Release\Test_Task_Monopoly.exe
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\bin\Release\Test_Task_Monopoly.pdb
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\obj\Release\Test_Task_Monopoly.csproj.AssemblyReference.cache
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\obj\Release\Test_Task_Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\obj\Release\Test_Task_Monopoly.exe
+C:\Users\Hotking\OneDrive\Рабочий стол\Monopoly\Test_Task_Monopoly\Test_Task_Monopoly\obj\Release\Test_Task_Monopoly.pdb
